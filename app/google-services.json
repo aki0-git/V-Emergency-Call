@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19516927976",
+    "project_id": "myapplication-d7c0f",
+    "storage_bucket": "myapplication-d7c0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19516927976:android:c34fb05814e8aff0da3e5d",
+        "android_client_info": {
+          "package_name": "jp.enigma.v_emergency_call"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19516927976-9rerhs9he3bfslnc0icho2q38dfjgg0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOD4X2MUgbmID3XuPBAsK9o0RsQgRD4jE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19516927976-9rerhs9he3bfslnc0icho2q38dfjgg0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vエマ</string>
+    <string name="todo1">1. アプリ起動時にバイブをON</string>
+    <string name="todo2">2. 設定を保存しアプリを終了</string>
+    <string name="seton">ONにする場合はチェック</string>
+    <string name="savebt">設定を保存</string>
+    <string name="manual">アプリの使い方について</string>
+</resources>
